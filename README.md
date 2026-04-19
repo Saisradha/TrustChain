@@ -1,102 +1,176 @@
-🚀 TrustChain – Autonomous AI B2B Operations Platform
+# 🚀 TrustChain – Autonomous AI B2B Operations Platform
 
-An intelligent multi-agent system that automates B2B deal workflows — from negotiation to enforcement — reducing manual effort, risk, and inefficiencies.
+<p align="center">
+  <b>AI-powered multi-agent system to automate B2B deals, trust, and contracts</b><br><br>
 
-📌 Overview
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi">
+  <img src="https://img.shields.io/badge/Streamlit-Frontend-red?style=for-the-badge&logo=streamlit">
+  <img src="https://img.shields.io/badge/AI-Anthropic-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+</p>
 
-TrustChain is an AI-powered platform designed for SMEs (Small & Medium Enterprises) to streamline and automate business transactions.
+---
 
-It leverages multiple AI agents to handle:
+## 📌 Overview
 
-Deal intake
-Negotiation
-Trust verification
-Contract generation
-Enforcement & monitoring
+**TrustChain** is an intelligent platform that automates **B2B operations using AI agents**.
+It eliminates manual workflows by enabling autonomous deal handling, negotiation, verification, and enforcement.
 
-👉 The goal: Zero-friction, secure, and autonomous B2B operations
+> 💡 Built for SMEs to reduce friction, risk, and time in business transactions.
 
-⚡ Key Features
-🤖 Multi-Agent System
-🧠 Negotiation Agent – Handles deal discussions
-🔍 Verification Agent – Validates parties & trust signals
-📄 Contract Agent – Generates smart agreements
-⚖️ Enforcement Agent – Ensures compliance
-📊 Monitoring Agent – Tracks live deal status
-🔐 Trust & Risk Management
-Detects suspicious behavior
-Verifies counterparties
-Maintains audit logs
-📈 Real-Time Dashboard
-Built with Streamlit
-View active deals, alerts, and analytics
-🧾 Automated Workflows
-End-to-end deal lifecycle automation
-Reduces manual intervention
-🏗️ Tech Stack
-Layer	Technology Used
-Frontend	Streamlit
-Backend	FastAPI + Uvicorn
-AI Engine	Anthropic API
-Database	SQLite
-Language	Python
-Config	python-dotenv
-📂 Project Structure
+---
+
+## ⚡ Features
+
+### 🤖 Multi-Agent System
+
+* 🧠 Negotiation Agent – Handles deal discussions
+* 🔍 Verification Agent – Validates trust & identity
+* 📄 Contract Agent – Generates smart contracts
+* ⚖️ Enforcement Agent – Ensures compliance
+* 📊 Monitoring Agent – Tracks live deal execution
+
+---
+
+### 🔐 Trust & Security
+
+* Fraud detection & anomaly tracking
+* Trust scoring for businesses
+* Complete audit logs
+
+---
+
+### 📊 Dashboard
+
+* Interactive UI using Streamlit
+* Real-time deal monitoring
+* Alerts & analytics
+
+---
+
+## 🏗️ Tech Stack
+
+| Layer     | Technology        |
+| --------- | ----------------- |
+| Backend   | FastAPI + Uvicorn |
+| Frontend  | Streamlit         |
+| AI Engine | Anthropic API     |
+| Database  | SQLite            |
+| Language  | Python            |
+
+---
+
+## 📂 Project Structure
+
+```
 ai-b2b-agent/
 │
-├── agents/              # AI agents (negotiation, verification, etc.)
-├── utils/               # Helper utilities
-├── templates/           # HTML templates
-├── contracts/           # Generated contracts
+├── agents/
+├── utils/
+├── templates/
+├── contracts/
 │
-├── app.py               # Streamlit dashboard
-├── main.py              # Backend entry point
-├── orchestrator.py      # Agent coordination logic
+├── app.py
+├── main.py
+├── orchestrator.py
 │
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-⚙️ Installation & Setup
-1️⃣ Clone the repository
+```
+
+---
+
+## ⚙️ Setup Instructions
+
+### 🔧 Clone Repository
+
+```bash
 git clone https://github.com/Saisradha/TrustChain.git
 cd TrustChain
-2️⃣ Create virtual environment
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-3️⃣ Install dependencies
+```
+
+### 📦 Install Dependencies
+
+```bash
 pip install -r requirements.txt
-4️⃣ Set environment variables
+```
 
-Create a .env file:
+### 🔐 Environment Variables
 
-ANTHROPIC_API_KEY=your_api_key_here
-▶️ Run the Project
-Run backend (FastAPI)
+Create `.env` file:
+
+```
+ANTHROPIC_API_KEY=your_api_key
+```
+
+---
+
+## ▶️ Run Application
+
+### Start Backend
+
+```bash
 uvicorn main:app --reload
-Run frontend (Streamlit)
+```
+
+### Start Frontend
+
+```bash
 streamlit run app.py
-🧠 How It Works
-User submits a deal
-Orchestrator activates AI agents
-Agents:
-Negotiate terms
-Verify trust
-Generate contract
-System monitors execution in real-time
-🎯 Use Cases
-🏢 SME B2B transactions
-📦 Supplier negotiations
-🤝 Contract automation
-🔐 Fraud detection & trust scoring
-🚀 Future Enhancements
-Blockchain-based contract validation
-Multi-language negotiation support
-Advanced ML risk scoring
-Real-time alerts & notifications
-👩‍💻 Author
+```
 
-Sradha
+---
 
-Passionate about AI, automation & real-world problem solving
-Building impactful tech for business and society
+## 🧠 System Flow
+
+```
+User Input → Orchestrator → AI Agents →
+Negotiation → Verification → Contract →
+Enforcement → Monitoring Dashboard
+```
+
+---
+
+## 🎯 Use Cases
+
+* 🏢 SME Business Transactions
+* 🤝 Automated Negotiation
+* 📄 Contract Generation
+* 🔐 Trust Verification Systems
+
+---
+
+## 🚀 Future Scope
+
+* Blockchain-based contracts
+* Multi-language AI agents
+* Advanced ML risk scoring
+* Notification & alert systems
+
+---
+
+## 👩‍💻 Author
+
+**Sradha**
+💡 AI Developer | Problem Solver | Builder
+
+---
+
+## ⭐ Support
+
+If you like this project:
+👉 Give it a ⭐ on GitHub
+
+---
+
+## 📜 License
+
+MIT License
+
+---
+
+## 💥 Highlight
+
+> Developed a **multi-agent AI system** that automates end-to-end B2B workflows including negotiation, trust verification, and contract enforcement.
