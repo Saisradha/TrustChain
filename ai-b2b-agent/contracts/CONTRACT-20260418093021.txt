@@ -1,0 +1,207 @@
+# B2B PURCHASE AGREEMENT
+
+---
+
+**CONTRACT NO.:** CONTRACT-20260418093021
+
+**DATE OF EXECUTION:** April 18, 2026
+
+---
+
+## PARTIES TO THIS AGREEMENT
+
+**SELLER:**
+**ABC Industrial Supplies Pvt. Ltd.**
+A company incorporated under the Companies Act, 2013
+CIN: U74999MH2018PTC310852
+GSTIN: 27AABCA1234Z1ZM
+Having its registered office at:
+Plot 14, MIDC Industrial Area, Pune, Maharashtra – 411019, India
+
+(Hereinafter referred to as the **"Seller"**, which expression shall, unless repugnant to the context or meaning thereof, include its successors, legal representatives, and permitted assigns)
+
+**AND**
+
+**BUYER:**
+**Acme Manufacturing Ltd**
+A company incorporated under the Companies Act
+CIN: U74999MH2010PTC123456
+GSTIN: 27AAPFU0939F1ZV
+Contact: procurement@acme.com
+
+(Hereinafter referred to as the **"Buyer"**, which expression shall, unless repugnant to the context or meaning thereof, include its successors, legal representatives, and permitted assigns)
+
+The Seller and Buyer are hereinafter individually referred to as a **"Party"** and collectively as the **"Parties"**.
+
+---
+
+## RECITALS
+
+**WHEREAS:**
+
+A. The Seller is engaged in the business of manufacturing and supplying industrial equipment, components, and supplies, including hydraulic systems and valves, and possesses the requisite expertise, infrastructure, and certifications to manufacture and deliver products conforming to industry standards.
+
+B. The Buyer is engaged in manufacturing operations and requires industrial hydraulic valves for its business operations.
+
+C. The Buyer, after due evaluation of the Seller's capabilities, product quality, and commercial terms, has agreed to purchase Industrial Hydraulic Valves from the Seller on the terms and conditions set forth herein.
+
+D. The Parties have negotiated in good faith and now wish to record the terms of their agreement in this binding contract.
+
+**NOW, THEREFORE,** in consideration of the mutual covenants, promises, and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+---
+
+## ARTICLE 1: DEFINITIONS AND INTERPRETATION
+
+### 1.1 Definitions
+
+In this Agreement, unless the context otherwise requires, the following terms shall have the meanings assigned to them:
+
+**"Acceptance"** means the written confirmation by the Buyer that the Goods conform to the Specifications and have passed inspection in accordance with Article 7 of this Agreement.
+
+**"Agreement"** or **"Contract"** means this B2B Purchase Agreement, including all schedules, annexures, and amendments made in writing and signed by both Parties.
+
+**"Business Day"** means any day other than a Saturday, Sunday, or public holiday in the State of Maharashtra, India.
+
+**"Confidential Information"** means all information, whether written, oral, electronic, or visual, disclosed by one Party to the other in connection with this Agreement, including but not limited to technical data, trade secrets, pricing information, business strategies, customer lists, and financial information.
+
+**"Contract Value"** or **"Total Contract Value"** means the aggregate sum payable by the Buyer to the Seller under this Agreement, being Indian Rupees Twenty-One Lakhs Seventy-Five Thousand Only (₹21,75,000/-).
+
+**"Delivery Date"** means the date by which the Seller is obligated to deliver the Goods to the Buyer, being twenty-five (25) calendar days from the Date of Execution of this Agreement, i.e., **May 13, 2026**.
+
+**"Effective Date"** means April 18, 2026, being the date of execution of this Agreement.
+
+**"Goods"** or **"Products"** means the Industrial Hydraulic Valves as described in Article 4 and the attached Specifications.
+
+**"GST"** means the Goods and Services Tax levied under the Central Goods and Services Tax Act, 2017, the Integrated Goods and Services Tax Act, 2017, and respective State Goods and Services Tax Acts, as applicable.
+
+**"Inspection Period"** means a period of five (5) Business Days from the date of delivery of the Goods during which the Buyer shall inspect and test the Goods.
+
+**"Late Penalty"** means the liquidated damages payable by the Seller to the Buyer for delayed delivery as specified in Article 9 of this Agreement.
+
+**"Specifications"** means the technical specifications, quality standards, and requirements for the Goods as set out in Schedule A annexed hereto or as mutually agreed in writing.
+
+### 1.2 Interpretation
+
+(a) Words importing the singular include the plural and vice versa.
+
+(b) References to Articles and Schedules are to articles of, and schedules to, this Agreement.
+
+(c) Headings are for convenience only and shall not affect interpretation.
+
+(d) The terms "include," "includes," and "including" shall be deemed to be followed by the phrase "without limitation."
+
+(e) References to any statute or statutory provision include any subordinate legislation and any modification, amendment, or re-enactment thereof.
+
+---
+
+## ARTICLE 2: SCOPE OF AGREEMENT
+
+### 2.1 Sale and Purchase
+
+The Seller hereby agrees to manufacture, sell, and deliver to the Buyer, and the Buyer hereby agrees to purchase and accept from the Seller, the Goods in accordance with the terms and conditions of this Agreement.
+
+### 2.2 Entire Agreement
+
+This Agreement, together with all Schedules and Annexures attached hereto, constitutes the entire agreement between the Parties concerning the subject matter hereof and supersedes all prior negotiations, representations, warranties, and agreements between the Parties, whether written or oral.
+
+### 2.3 Order of Precedence
+
+In the event of any conflict or inconsistency between the provisions of this Agreement and any Schedule or Annexure, the provisions of the main body of this Agreement shall prevail unless expressly stated otherwise.
+
+---
+
+## ARTICLE 3: TERM
+
+### 3.1 Effective Date
+
+This Agreement shall become effective on the Effective Date and shall remain in force until the complete fulfillment of all obligations by both Parties, including the warranty period as specified herein, unless earlier terminated in accordance with the provisions of this Agreement.
+
+---
+
+## ARTICLE 4: DESCRIPTION OF GOODS
+
+### 4.1 Product Description
+
+The Goods to be supplied under this Agreement are as follows:
+
+| **Particulars** | **Details** |
+|-----------------|-------------|
+| Product Name | Industrial Hydraulic Valves |
+| Quantity | 500 (Five Hundred) Units |
+| HSN Code | As applicable under GST Law |
+| Specifications | As per Schedule A |
+
+### 4.2 Specifications
+
+The Goods shall conform to the technical specifications set forth in **Schedule A** (to be annexed by mutual agreement) or as otherwise agreed in writing between the Parties prior to commencement of manufacturing. Any deviation from the agreed Specifications shall require prior written approval from the Buyer.
+
+### 4.3 Quality Standards
+
+The Goods shall:
+
+(a) Be new, unused, and of recent manufacture;
+
+(b) Conform to all applicable Indian Standards (BIS) and industry standards;
+
+(c) Be free from defects in design, materials, and workmanship;
+
+(d) Be fit for the purpose for which such goods are ordinarily used and any specific purpose communicated by the Buyer to the Seller.
+
+---
+
+## ARTICLE 5: PRICE AND PAYMENT TERMS
+
+### 5.1 Contract Price
+
+The Buyer agrees to pay the Seller for the Goods as follows:
+
+| **Description** | **Amount** |
+|-----------------|------------|
+| Unit Price | ₹4,350.00 (Indian Rupees Four Thousand Three Hundred Fifty Only) per unit |
+| Quantity | 500 units |
+| **Subtotal** | **₹21,75,000.00** (Indian Rupees Twenty-One Lakhs Seventy-Five Thousand Only) |
+| GST | As applicable, to be charged extra at prevailing rates |
+| **Total Contract Value (excluding GST)** | **₹21,75,000.00** |
+
+### 5.2 Taxes
+
+(a) The prices stated above are exclusive of GST. The Seller shall charge GST at the applicable rate on the invoice, and the Buyer shall pay the same subject to receipt of a valid tax invoice compliant with GST laws.
+
+(b) The Seller shall ensure timely filing of GST returns to enable the Buyer to claim Input Tax Credit.
+
+(c) Any other taxes, duties, or levies imposed by any governmental authority shall be borne as per applicable law or as mutually agreed.
+
+### 5.3 Payment Terms
+
+(a) **Payment Period:** Payment shall be made by the Buyer within **fifty (50) calendar days** from the date of receipt of the Seller's valid invoice and successful Acceptance of the Goods by the Buyer (**"Net 50"**).
+
+(b) **Invoice Requirements:** The Seller shall submit invoices that are GST-compliant and include the Contract number, purchase order reference (if any), description of Goods, quantity, unit price, total amount, applicable taxes, and bank account details.
+
+(c) **Mode of Payment:** Payment shall be made via RTGS/NEFT to the Seller's designated bank account, details of which shall be provided by the Seller in the invoice.
+
+(d) **Payment Confirmation:** The Buyer shall provide payment confirmation upon request by the Seller.
+
+### 5.4 Disputed Invoices
+
+If the Buyer disputes any portion of an invoice in good faith, the Buyer shall:
+
+(a) Pay the undisputed portion within the stipulated time;
+
+(b) Notify the Seller in writing of the disputed amount with reasons within ten (10) Business Days of receipt of invoice;
+
+(c) Work with the Seller in good faith to resolve the dispute expeditiously.
+
+### 5.5 Late Payment Interest
+
+If the Buyer fails to make payment of any undisputed amount within the Payment Period, the Seller shall be entitled to charge interest at the rate of **12% per annum** (simple interest) on the overdue amount from the due date until the date of actual payment.
+
+---
+
+## ARTICLE 6: DELIVERY
+
+### 6.1 Delivery Schedule
+
+(a) The Seller shall deliver the entire quantity of Goods within **twenty-five (25) calendar days** from the Effective Date of this Agreement.
+
+(b) **Scheduled Delivery Date: May 13

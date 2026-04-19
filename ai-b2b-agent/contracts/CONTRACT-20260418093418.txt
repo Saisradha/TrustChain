@@ -1,0 +1,199 @@
+# B2B PURCHASE AGREEMENT
+
+---
+
+**CONTRACT NO.: CONTRACT-20260418093418**
+
+**DATE OF EXECUTION: April 18, 2026**
+
+---
+
+## PARTIES TO THIS AGREEMENT
+
+**SELLER:**
+**ABC Industrial Supplies Pvt. Ltd.**
+A company incorporated under the Companies Act, 2013
+CIN: U74999MH2018PTC310852
+Having its registered office at: Plot 14, MIDC Industrial Area, Pune, Maharashtra – 411019, India
+GSTIN: 27AABCA1234Z1ZM
+(Hereinafter referred to as the **"Seller"**, which expression shall, unless repugnant to the context or meaning thereof, include its successors and permitted assigns)
+
+**AND**
+
+**BUYER:**
+**Acme Manufacturing Ltd**
+A company incorporated under the Companies Act
+CIN: U74999MH2010PTC123456
+GSTIN: 27AAPFU0939F1ZV
+Email: procurement@acme.com
+(Hereinafter referred to as the **"Buyer"**, which expression shall, unless repugnant to the context or meaning thereof, include its successors and permitted assigns)
+
+The Seller and the Buyer are hereinafter individually referred to as a **"Party"** and collectively as the **"Parties"**.
+
+---
+
+## RECITALS
+
+**WHEREAS:**
+
+A. The Seller is engaged in the business of manufacturing and supplying industrial equipment and components, including hydraulic valves and related products, and possesses the necessary expertise, infrastructure, and capabilities to fulfill the requirements of the Buyer.
+
+B. The Buyer is engaged in manufacturing operations and requires Industrial Hydraulic Valves for its business purposes.
+
+C. The Buyer, after due evaluation of the Seller's capabilities, product quality, and commercial terms, has agreed to purchase, and the Seller has agreed to sell and supply, the Products (as defined herein) on the terms and conditions set forth in this Agreement.
+
+D. The Parties desire to record the terms and conditions governing the sale and purchase of the Products in this Agreement.
+
+**NOW, THEREFORE,** in consideration of the mutual covenants, promises, and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+---
+
+## ARTICLE 1: DEFINITIONS AND INTERPRETATION
+
+### 1.1 Definitions
+
+In this Agreement, unless the context otherwise requires, the following terms shall have the meanings assigned to them below:
+
+**"Agreement"** means this B2B Purchase Agreement, including all schedules, annexures, and amendments made hereto from time to time.
+
+**"Business Day"** means any day other than a Saturday, Sunday, or public holiday in the State of Maharashtra, India, on which banks are open for general business.
+
+**"Confidential Information"** means all information, whether written, oral, electronic, or visual, disclosed by one Party to the other in connection with this Agreement, including but not limited to technical data, trade secrets, pricing information, business strategies, customer lists, and proprietary processes.
+
+**"Contract Price"** means the total consideration payable by the Buyer to the Seller for the Products as specified in Article 3 of this Agreement.
+
+**"Defect"** or **"Defective"** means any non-conformity of the Products with the Specifications, including any defect in material, workmanship, or design.
+
+**"Delivery Date"** means the date by which the Seller is obligated to deliver the Products to the Buyer, as specified in Article 4 of this Agreement.
+
+**"Effective Date"** means April 18, 2026, being the date of execution of this Agreement.
+
+**"Force Majeure Event"** means any event beyond the reasonable control of the affected Party, including but not limited to acts of God, natural disasters, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, epidemics, pandemics, strikes, or failures of transportation or communication systems.
+
+**"GST"** means Goods and Services Tax levied under the Central Goods and Services Tax Act, 2017, and respective State Goods and Services Tax Acts, as applicable.
+
+**"Intellectual Property Rights"** means all patents, copyrights, trademarks, trade secrets, design rights, and other proprietary rights.
+
+**"Products"** means the Industrial Hydraulic Valves as described in Article 2 of this Agreement.
+
+**"Specifications"** means the technical specifications, standards, and quality requirements for the Products as set forth in Schedule A attached hereto or as mutually agreed by the Parties in writing.
+
+**"Unit Price"** means the price per unit of the Product as specified in Article 3.
+
+---
+
+### 1.2 Interpretation
+
+(a) Unless the context otherwise requires, words importing the singular include the plural and vice versa, and words importing any gender include all genders.
+
+(b) References to Articles, Clauses, and Schedules are references to Articles, Clauses, and Schedules of this Agreement.
+
+(c) Headings are for convenience only and shall not affect the interpretation of this Agreement.
+
+(d) The terms "include," "includes," and "including" shall be deemed to be followed by the phrase "without limitation."
+
+(e) References to any statute or statutory provision include any modification, re-enactment, or extension thereof.
+
+(f) All amounts stated herein are in Indian Rupees (INR) unless otherwise specified.
+
+---
+
+## ARTICLE 2: PRODUCT DESCRIPTION
+
+### 2.1 Products
+
+The Seller agrees to manufacture, sell, and deliver, and the Buyer agrees to purchase and accept, the following Products:
+
+| Description | Quantity | Unit of Measurement |
+|-------------|----------|---------------------|
+| Industrial Hydraulic Valves | 500 | Units |
+
+### 2.2 Specifications
+
+The Products shall conform to the Specifications as detailed in **Schedule A** (to be attached hereto) or as otherwise agreed in writing between the Parties. The Specifications shall include, but not be limited to:
+
+(a) Technical parameters and performance standards
+(b) Material composition and quality grades
+(c) Dimensional tolerances
+(d) Applicable industry standards (IS/ISO/equivalent)
+(e) Packaging requirements
+
+### 2.3 Changes to Specifications
+
+Any changes to the Specifications shall be made only by mutual written agreement of both Parties. Any change that affects the cost, delivery schedule, or quality of the Products shall be subject to a written amendment to this Agreement, including any adjustment to the Contract Price.
+
+---
+
+## ARTICLE 3: PRICE AND PAYMENT TERMS
+
+### 3.1 Contract Price
+
+The Buyer agrees to pay the Seller the following consideration for the Products:
+
+| Particulars | Amount (INR) |
+|-------------|--------------|
+| Unit Price per Product | ₹4,320.00 (Rupees Four Thousand Three Hundred Twenty Only) |
+| Quantity | 500 Units |
+| **Total Contract Value (Base Price)** | **₹21,60,000.00 (Rupees Twenty-One Lakh Sixty Thousand Only)** |
+
+### 3.2 Taxes
+
+(a) The Contract Price stated above is exclusive of applicable GST.
+
+(b) GST shall be charged by the Seller at the prevailing rate as applicable on the date of invoice and shall be payable by the Buyer in addition to the Contract Price.
+
+(c) The Seller shall issue GST-compliant tax invoices as per the applicable provisions of the Central Goods and Services Tax Act, 2017, and relevant State GST Acts.
+
+(d) Each Party shall be responsible for its own income taxes arising from this Agreement.
+
+### 3.3 Payment Terms
+
+(a) **Payment Period:** Payment shall be due within **forty-five (45) days** from the date of the Seller's invoice (**"Net 45"**).
+
+(b) **Invoice Submission:** The Seller shall submit the invoice to the Buyer along with proof of delivery, including delivery challan and goods receipt acknowledgment.
+
+(c) **Mode of Payment:** All payments shall be made by the Buyer through RTGS/NEFT/bank transfer to the Seller's designated bank account, details of which shall be provided in the invoice.
+
+(d) **Currency:** All payments under this Agreement shall be made in Indian Rupees (INR).
+
+### 3.4 Late Payment Interest
+
+If the Buyer fails to make any payment by the due date, the Seller shall be entitled to charge interest on the overdue amount at the rate of **twelve percent (12%) per annum**, calculated on a daily basis from the due date until the date of actual payment, without prejudice to any other rights or remedies available to the Seller under this Agreement or applicable law.
+
+### 3.5 Disputed Invoices
+
+(a) If the Buyer disputes any portion of an invoice in good faith, the Buyer shall notify the Seller in writing within seven (7) Business Days of receipt of the invoice, specifying the disputed amount and the reasons for the dispute.
+
+(b) The undisputed portion of the invoice shall remain payable in accordance with the payment terms specified herein.
+
+(c) The Parties shall endeavor to resolve the dispute within fifteen (15) Business Days of notification. Upon resolution, any amount found due shall be paid within ten (10) Business Days.
+
+---
+
+## ARTICLE 4: DELIVERY SCHEDULE AND CONDITIONS
+
+### 4.1 Delivery Date
+
+The Seller shall deliver the complete quantity of Products to the Buyer within **twenty-one (21) days** from the Effective Date of this Agreement, i.e., on or before **May 9, 2026** (the **"Delivery Date"**).
+
+### 4.2 Delivery Location
+
+The Products shall be delivered to the Buyer's designated premises at the address notified by the Buyer in writing prior to dispatch. In the absence of such notification, delivery shall be made to:
+
+**Acme Manufacturing Ltd**
+[Address to be specified by Buyer]
+
+### 4.3 Delivery Terms
+
+(a) **Incoterms:** Unless otherwise agreed in writing, delivery shall be on **DAP (Delivered at Place)** basis as per Incoterms 2020, with the delivery point being the Buyer's designated premises.
+
+(b) **Risk of Loss:** Risk of loss or damage to the Products shall pass to the Buyer upon delivery and acceptance at the designated delivery location.
+
+(c) **Title Transfer:** Title to the Products shall pass to the Buyer upon receipt of full payment of the Contract Price.
+
+### 4.4 Delivery Documentation
+
+The Seller shall provide the following documents along with each delivery:
+
+(a) Delivery Challan/Consignment Note
+(b) GST-compliant Tax Invoice

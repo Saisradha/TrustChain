@@ -1,0 +1,30 @@
+B2B PURCHASE AGREEMENT
+    Contract ID: CONTRACT-20260419065756
+    Date: April 19, 2026
+
+    Seller: ABC Industrial Supplies Pvt. Ltd.
+    Buyer: Acme Manufacturing Ltd
+
+    Product: Industrial Hydraulic Valves
+    Quantity: 500 units
+    Unit Price: Rs.4320
+    Total Value: Rs.2,160,000
+    Delivery: 30 days from signing
+    Payment Terms: net_60
+
+    Penalty Clause:
+    0.5% of total contract value per day of delivery delay, capped at 10%.
+
+    Confidentiality:
+    Both parties will keep all commercial and technical details confidential.
+
+    Dispute Resolution:
+    Any dispute will first be attempted via arbitration.
+
+    Governing Law:
+    Laws of India.
+
+    Signatures:
+    Authorized Signatory (Seller) ____________________
+    Authorized Signatory (Buyer) _____________________
+    
