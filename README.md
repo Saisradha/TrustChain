@@ -1,4 +1,4 @@
-# 🚀 TrustChain – Autonomous AI B2B Operations Platform
+# 🚀 TrustChain – Autonomous AI B2B Operations Platform...
 
 <p align="center">
   <b>AI-powered multi-agent system to automate B2B deals, trust, and contracts</b><br><br>
